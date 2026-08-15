@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Engineering Style"
+  short_description: "Apply your Python YAML Bash engineering style"
+  default_prompt: "Use $personal-engineering-style to generate Python, YAML, and Bash project code in my preferred engineering style."
